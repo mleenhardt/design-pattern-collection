@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
     <Compile Include="Ham.cs" />
     <Compile Include="LargeSandwich.cs" />
     <Compile Include="Pickle.cs" />
