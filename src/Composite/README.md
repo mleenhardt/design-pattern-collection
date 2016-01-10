@@ -1,0 +1,2 @@
+﻿The Composite pattern can be used to compose objects into tree structures in order to represend part whole hierarchies.
+Composite lets clients treat individual objects and compositions of objects uniformly. (GOF)
